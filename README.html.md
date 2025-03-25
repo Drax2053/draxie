@@ -12,6 +12,6 @@ Here's the old one: <a href="https://sites.google.com/ccs.k12.in.us/all-about-me
 <ul>
     <li><a href="music.html">Music that I Like</a></li>
     <li><a href="pronouns.html">My Pronouns</a></li>
-    <li><a href="who-i-am.html">Who I Am</a></li>
-    <li><a href="about.html">About Me</a></li>
+    <li><a href="who-i-am.md">Who I Am</a></li>
+    <li><a href="about.md">About Me</a></li>
 </ul>
