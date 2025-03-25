@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Who I Am</title>
-</head>
-<body>
+
     <h1>Who I Am</h1>
 
     <p>So for starters, for those who are wondering, I'm 17 years old, and I have a deep passion for technology, gaming, and coding...</p>
@@ -19,5 +12,3 @@
     <p>When I’m not coding, gaming, or studying, I try to stay active by exploring new interests and staying involved in my community...</p>
 
     <a href="index.html">Back to Home</a>
-</body>
-</html>
