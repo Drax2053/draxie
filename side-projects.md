@@ -6,9 +6,7 @@ Welcome to my side project shelf: the place where old websites, web experiments,
 
 | Project | Type | Status | Link |
 | --- | --- | --- | --- |
-| Project showcase coming soon | Website | In progress | - |
-| Older website archive | Web design | Planned | - |
-| Creative coding experiments | Mixed | Planned | - |
+| Draxie Profile | Personal profile page | Live | [Visit](https://guns.lol/draxie) |
 
 ## What I Build
 
@@ -19,7 +17,7 @@ Welcome to my side project shelf: the place where old websites, web experiments,
 
 ## Why This Page Exists
 
-I have made a few websites and experiments over time, and I wanted one clean place to show them off. This page will grow as I add links, screenshots, and short notes about what I learned while building each project.
+I have made a few websites and experiments over time, and I wanted one clean place to show them off. This page will grow as I add more links, screenshots, and short notes about what I learned while building each project.
 
 ---
 
