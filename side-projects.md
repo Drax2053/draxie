@@ -7,6 +7,7 @@ Welcome to my side project shelf: the place where old websites, web experiments,
 | Project | Type | Status | Link |
 | --- | --- | --- | --- |
 | Draxie Profile | Personal profile page | Live | [Visit](https://guns.lol/draxie) |
+| Draxie Neocities | Personal website | Live | [Visit](https://draxie.neocities.org) |
 
 ## What I Build
 
