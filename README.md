@@ -1,15 +1,16 @@
-<h1> Hey, I'm Drax 👋
+# Hey, I'm Drax
 
-I'm a 19-year-old developer, creator, and tech enthusiast from Indiana.
-I enjoy coding projects, web design, game-related projects, and learning new tech.
+I'm a 19-year-old developer, creator, and tech enthusiast from Indiana. I like building websites, experimenting with game-related ideas, and learning new tech by making real things.
 
-Currently working on:
+## Currently Working On
 
-* Websites and personal hubs
-* VR/PC-related experiments
-* Creative coding ideas
-* Random side projects that somehow become real
+- Websites and personal hubs
+- VR and PC-related experiments
+- Creative coding ideas
+- Side projects that start small and somehow become real
 
-I love mixing creativity with technology and building things that feel futuristic, useful, or just fun to make.
+## Explore
 
- “Keep building. Keep learning. Keep evolving.” </h1>
+[Side Projects](side-projects.md)
+
+> Keep building. Keep learning. Keep evolving.
